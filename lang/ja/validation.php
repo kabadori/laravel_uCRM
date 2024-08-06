@@ -156,6 +156,8 @@ return [
     'attributes' => [
       'password' => 'パスワード',
       'name' => '氏名',
+      'memo' => 'メモ',
+      'price' => '料金',
       'title' => '件名',
       'content' => '本文',
       'gender' => '性別',
